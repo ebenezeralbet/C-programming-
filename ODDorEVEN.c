@@ -10,3 +10,4 @@ else{
 printf("odd");
 }
 return 0;
+}
